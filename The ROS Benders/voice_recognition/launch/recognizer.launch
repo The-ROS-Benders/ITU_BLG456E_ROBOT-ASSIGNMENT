@@ -1,0 +1,10 @@
+<launch>
+     <node name="recognizer" pkg="pocketsphinx" type="recognizer.py" output="screen">
+       <param name="lm" value="$(find voice_recognition)/config/digit_commands.lm"/>
+       <param name="dict" value="$(find voice_recognition)/config/digit_commands.dic"/>
+     </node>
+	
+     <node name="soundplay_node" pkg="sound_play" type="soundplay_node.py"/>
+</launch>
+
+
