@@ -17,7 +17,7 @@ robot.
 
 The project
 Contains voice recognition, map and path generation implementations. 
-Done by Can Yılmaz Altıniğne /n
-        Ece Naz Sefercioğlu /n
-        Gamze Akyol /n
-        Oğuzhan Can /n
+Done by Can Yılmaz Altıniğne,
+        Ece Naz Sefercioğlu,
+        Gamze Akyol,
+        Oğuzhan Can.
